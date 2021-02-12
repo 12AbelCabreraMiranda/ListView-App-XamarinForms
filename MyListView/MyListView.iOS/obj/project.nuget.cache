@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qEBqGdUHrYXsxzSLbEXcOVAISsmGKbu2Daymet18cWtB4dzfsw0stDN4dXdcd+dsESx0drCPCzARwgWxG4q5ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abel\\Documents\\Visual Studio 2019\\XamarinForms\\MyListView\\MyListView\\MyListView.iOS\\MyListView.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abel\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
